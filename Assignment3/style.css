@@ -1,0 +1,38 @@
+h1{
+  color: lime;
+  background-color: #063970;
+}
+
+h2{
+  color: blue;
+  background-color: #34DC16
+
+}
+
+.turnred {
+  color: #FF0000;
+}
+
+a:link {
+  color: #B31212
+}
+
+a:hover {
+  color: #CDBA16
+}
+a:visited {
+  color: #27A614
+}
+
+.turnorange {
+  color: #FF9600;
+}
+
+#turngreen{
+  background-color: #0DA024;
+}
+
+
+#orangeback{
+  background-color: orange;
+}
