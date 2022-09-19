@@ -1,0 +1,59 @@
+h1{
+  color: white;
+  background-color: #6495ED
+}
+
+#blueback{
+  background-color: #6495ED;
+}
+
+a:link {
+  color: #07641F;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #FF0000;
+  text-decoration: underline;
+}
+
+.bold{
+  font-weight: bold;
+}
+h2{
+  color: blue;
+}
+
+.turnorange {
+  color: #FF9600;
+}
+
+#yellowback{
+  background-color: #F2F100
+}
+
+h3{
+  background-color: #F2F100;
+  font-weight: bold;
+}
+
+.turnred {
+  color: #FF0000;
+}
+
+h4{
+  color: yellow;
+  background-color: #0B550F
+}
+
+#greenback{
+  background-color: #7AE65C
+}
+
+h5{
+  color: red;
+}
+
+.turnblue{
+  color: #162BBE;
+}
