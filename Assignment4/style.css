@@ -1,0 +1,67 @@
+h1{
+  color: lime;
+  background-color: #063970;
+}
+
+h2{
+  color: blue;
+  background-color: #34DC16
+
+}
+
+.turnred {
+  color: #FF0000;
+}
+
+a:link {
+  color: #B31212
+}
+
+a:hover {
+  color: #CDBA16
+}
+a:visited {
+  color: #27A614
+}
+
+.turnorange {
+  color: #FF9600;
+}
+
+#turngreen{
+  background-color: #0DA024;
+}
+
+
+#orangeback{
+  background-color: orange;
+}
+
+.sans{
+  font-family: sans-serif;
+}
+
+.Center{
+  text-align: center;
+}
+
+.Justify{
+  text-align: justify;
+}
+
+.header{
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.imgbox{
+  border: 5px solid #000000;
+  padding: 15px 15px 15px 15px;
+  margin: 10px 10px 10px 10px;
+  background-color: #FFFFFF;
+}
+
+body {
+  background-image: url(VRChat_1920x1080_2022-09-09_01-40-50.268.png)
+}
